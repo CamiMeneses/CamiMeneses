@@ -1,36 +1,33 @@
+<img align="left" width="52%" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true">
 
-<table>
-  <tr>
-    <td>
-      <h1 align="center">
-        <img src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="320" alt="Coding">
-      </h1>
-    </td>
-    <td>
-        <h1 align="center">
-           <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTMzMGdhbXZmNTJjdTUyazQ4d2M5cWd0cHBtYWF6dnpvZTAxY2hkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h0KBN3qQOAxv6DwiFm/giphy.gif" width="45"> 
-              Hi, I'm Camila Meneses
-        </h1>
-        <h3 align="center">
-        Backend Software Developer • AI Enthusiast
-        </h3>
-        <p align="center">
-        📍 Bogotá, Colombia
-        </p>
-        <p align="center">
-        <a href="https://www.linkedin.com/in/camimeneses/">
-          <img src="https://img.icons8.com/fluency/96/linkedin.png" width="60"/>
-        </a>
-        <a href="https://camimeneses.github.io/">
-          <img src="https://img.icons8.com/fluency/96/macbook.png" width="60"/>
-        </a>
-        <a href="https://drive.google.com/file/d/1XlyymHN7Qjd9el1VObkTwLoQO59HvPrF/view?usp=drive_link">
-          <img src="https://img.icons8.com/fluency/96/resume.png" width="60"/>
-        </a>
-      </p>
-    <td>
-  <tr>
-</table>
+<h1 align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTMzMGdhbXZmNTJjdTUyazQ4d2M5cWd0cHBtYWF6dnpvZTAxY2hkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h0KBN3qQOAxv6DwiFm/giphy.gif" width="45">
+  Hi, I'm Camila Meneses
+</h1>
+
+<h3 align="center">
+Backend Software Developer • AI Enthusiast
+</h3>
+
+<p align="center">
+📍 Bogotá, Colombia
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/camimeneses/">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="58"/>
+  </a>
+
+  <a href="https://camimeneses.github.io/">
+    <img src="https://img.icons8.com/fluency/96/macbook.png" width="58"/>
+  </a>
+
+  <a href="https://drive.google.com/file/d/1XlyymHN7Qjd9el1VObkTwLoQO59HvPrF/view?usp=drive_link">
+    <img src="https://img.icons8.com/fluency/96/resume.png" width="58"/>
+  </a>
+</p>
+
+<br clear="left">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
